@@ -4,4 +4,4 @@ Huawei ML Kit Text To Speech (TTS) Converts text information into audio output o
 ![](TTS.gif)
 
 Implementation Guidelines:  
-https://forums.developer.huawei.com/forumPortal/en/topicview?tid=0201368623186230376&fid=0101187876626530001
+https://forums.developer.huawei.com/forumPortal/en/topic/0201526765743340097
