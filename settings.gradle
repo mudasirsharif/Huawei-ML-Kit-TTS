@@ -1,0 +1,2 @@
+rootProject.name='ML_Text_To_Speech_Demo'
+include ':app'

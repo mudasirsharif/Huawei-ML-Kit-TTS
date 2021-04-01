@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_title">Huawei announces best AppGallery games of 2020</string>
+    <string name="news_description"> &#160; &#160; &#160; &#160; &#160;Huawei Mobile Services (HMS) has announced the Huawei AppGallery leaderboard of the Best Games of 2020, celebrating games across four categories. With immersive and engaging gameplay experiences, the winning games took the users on an entertaining, challenging and virtually connected journey during a period of isolation and distancing.\n\n &#160; &#160; &#160; &#160; &#160; The games were judged based on their technical innovation, the narrative and storytelling, design and animation, and the ability to appeal to pro and amateur players as they compete. The categories of games considered were multiplayer games, casual games, strategy games, and racing games.
+One winner from each category will be included in a special “Best of AppGallery Games” collection, from where users can instantly download and play the winning games.\n\n &#160; &#160; &#160; &#160; &#160; Winner of the Best Mobile eSport Game in 2020, Garena Free Fire was the go-to game when social distancing was the norm. Players can challenge friends in 10-minute long matches, which proved to be a fun and engaging way to spend time. The game also garnered considerable interest through unique events and celebrity appearances, including Cristiano Ronaldo.</string>
+
+    <string-array name="News">
+        <item>Huawei announces best AppGallery games of 2020</item>
+        <item>Huawei Mobile Services (HMS) has announced the Huawei AppGallery leaderboard of the Best Games of 2020, celebrating games across four categories. With immersive and engaging gameplay experiences, the winning games took the users on an entertaining, challenging and virtually connected journey during a period of isolation and distancing.</item>
+        <item>The games were judged based on their technical innovation, the narrative and storytelling, design and animation, and the ability to appeal to pro and amateur players as they compete. The categories of games considered were multiplayer games, casual games, strategy games, and racing games. One winner from each category will be included in a special “Best of AppGallery Games” collection, from where users can instantly download and play the winning games.</item>
+        <item>Winner of the Best Mobile eSport Game in 2020, Garena Free Fire was the go-to game when social distancing was the norm. Players can challenge friends in 10-minute long matches, which proved to be a fun and engaging way to spend time. The game also garnered considerable interest through unique events and celebrity appearances, including Cristiano Ronaldo.</item>
+    </string-array>
+</resources>
